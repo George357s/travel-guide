@@ -1,2 +1,2 @@
 # travel-guide
-unfinished landing page.
+unfinished landing page
